@@ -1,0 +1,7 @@
+{
+  "name": "zhuge-skill",
+  "version": "1.0.0",
+  "description": "诸葛亮.skill — 卧龙的认知操作系统。从《隆中对》《出师表》《诫子书》中蒸馏5个心智模型和7条决策启发式。",
+  "keywords": ["ai-agents", "skills", "zhuge-liang", "strategy", "methodology", "chinese-philosophy"],
+  "license": "MIT"
+}

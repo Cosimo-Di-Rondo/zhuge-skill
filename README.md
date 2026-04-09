@@ -229,17 +229,6 @@ cd zhuge-skill && claude --plugin-dir .
 
 ---
 
-## 和别的 skill 什么关系
-
-| Skill | 关系 |
-|-------|------|
-| [qiushi-skill](https://github.com/HughYau/qiushi-skill) | 求是管分析，卧龙管规划。两者搭配 = 分析完有路径 |
-| [sunzi-skill](https://github.com/Cosimo-Di-Rondo/sunzi-skill) | 孙子是兵法原理，诸葛亮是兵法实践。教科书 vs 案例集 |
-| [munger-skill](https://github.com/alchaincyf/munger-skill) | 芒格的逆向思维 ≈ 诸葛亮的锦囊预案。都是「先想怎么会死」 |
-| [女娲.skill](https://github.com/alchaincyf/nuwa-skill) | 本 skill 使用女娲方法论指导生成 |
-
----
-
 ## 仓库结构
 
 ```
@@ -261,6 +250,15 @@ zhuge-skill/
 ## 许可证
 
 MIT —— 卧龙的智慧应该开源。
+
+---
+
+## 相关
+
+| Skill | 关系 |
+|-------|------|
+| [sunzi-skill](https://github.com/Cosimo-Di-Rondo/sunzi-skill) | 孙子是兵法原理，诸葛亮是兵法实践。教科书 vs 案例集 |
+| [女娲.skill](https://github.com/alchaincyf/nuwa-skill) | 本 skill 使用女娲方法论指导生成 |
 
 &nbsp;
 
